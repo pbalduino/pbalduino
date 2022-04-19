@@ -1,6 +1,6 @@
 Hi there
 
-I'm Plínio Balduino, Data Engineer Manager, sometimes developer, writer, and speaker.
+I'm Plínio Balduino, currently working as Data Engineering Manager, sometimes developer, writer, and speaker.
 
 ## Certifications
 

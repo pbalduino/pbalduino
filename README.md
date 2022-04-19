@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="200" alt="AWS Certified Developer – Associate"/>
+<img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="200" alt="AWS Certified Solutions Architect – Associate"/>
 <!--
 **pbalduino/pbalduino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

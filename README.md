@@ -12,7 +12,7 @@ I'm Plínio Balduino, currently working as Data Engineering Manager, sometimes d
 
 <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/twitter_thumb_201604_image.png" width="150" alt="Microsoft Certified Azure Fundamentals" />
 
---
+<--
 **pbalduino/pbalduino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
